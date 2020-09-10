@@ -1,0 +1,19 @@
+{
+  "name": "nodejszipcodeapp",
+  "version": "1.0.0",
+  "description": "Nodejs zipcode App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "nodejs"
+  ],
+  "author": "John Lafata (based on legoapp from https://nodesource.com/blog/microservices-in-nodejs)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
